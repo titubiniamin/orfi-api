@@ -2,7 +2,7 @@
 
 ### Clone the repository
 
-    git clone https://github.com/TarikulHasanShuvo/orfi-api.git
+    git clone https://github.com/titubiniamin/orfi-api.git
 
 ### Switch to the repo folder
 
